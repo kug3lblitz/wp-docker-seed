@@ -1,3 +1,6 @@
+# Use the newer wp_docker instead
+https://github.com/kug3lblitz/wp_docker
+
 ## Usage
 
 * Install docker
